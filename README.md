@@ -10,10 +10,14 @@ Conjunto de dados utilizados nas análises.
 dashboards  
 Capturas de telas e relatórios criados no Power BI.
 
+mysql  
+Exercícios e anotações de SQL/MySQL (ex.: [Aula Jubran – Funções de Agregação](mysql/aula-jubran/README.md)).
+
 ## Ferramentas utilizadas
 
 Power BI  
 Excel  
+MySQL  
 GitHub
 
 ## Objetivo
